@@ -1,4 +1,6 @@
 FROM puppet/pdk
 
+USER 0
+
 ENTRYPOINT []
 
