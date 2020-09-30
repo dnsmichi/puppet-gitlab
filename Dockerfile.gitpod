@@ -1,2 +1,4 @@
 FROM puppet/pdk
 
+ENTRYPOINT []
+
