@@ -1,7 +1,7 @@
 FROM puppet/pdk
 
 USER root
-WORKDIR /root
+WORKDIR /
 
 ENTRYPOINT []
 
